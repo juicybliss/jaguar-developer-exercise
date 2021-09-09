@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Elvia Camarena
-# I am a Clean Agile Web Developer
+# Hi there 👋, I'm Elvia
+## A Clean Agile Web Developer
 
 
 
