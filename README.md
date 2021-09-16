@@ -13,6 +13,9 @@ NPM / GIT  / GITHUB / COMMAND-LINE / CREATIVE CLOUD: Ai Ps Xd Id
 
 
 - 🔭 I’m currently working on [my portfolio](https://www.elviacamarena.dev) / [JuicyBliss](https://www.juicybliss.com) / [FlyingStarsFengShui](http://www.flyingstarsfengshui.com) 
+- <a rel="noreferrer" target="_blank" class="" href="https://face-detective-09-14-21.herokuapp.com">
+Face Detector App
+</a>
 - 🌱 I’m currently learning Python / Ruby / Ruby on Rails / MongoDB / Mongoose / Figma   
 
 
