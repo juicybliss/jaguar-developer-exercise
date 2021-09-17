@@ -12,7 +12,7 @@ NPM / GIT  / GITHUB / COMMAND-LINE / CREATIVE CLOUD: Ai Ps Xd Id
 
 
 - 🔭 Check out [my portfolio](https://elvia-portfolio.netlify.app). I'm adding to it every day.
-- The next project I am excited aboutworking on is the [Flying Stars Feng Shui App](https://elvia-portfolio.netlify.app/#fengshui) 
+- The next project I am excited about working on is the [Flying Stars Feng Shui App](https://elvia-portfolio.netlify.app/#fengshui) 
 - 🌱 I’m currently learning Python / Ruby / Ruby on Rails / MongoDB / Mongoose / Figma   
 
 
