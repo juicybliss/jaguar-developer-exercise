@@ -2,20 +2,17 @@
 ## A Clean Agile Web Developer
 
 
-
 ![I am a Clean Agile Web Developer](https://github.com/juicybliss/Elvia-Camarena/blob/main/redappbanner.png)
 
-If you'd like to know about me and see my resumé, click [here](https://www.juicybliss.com/about)
+If you'd like to see my resumé, click [here](https://www.juicybliss.com/download_resume.pdf)
 
 Skills: 
 JS / REACT / REDUX / EXPRESS / NODE JS / SQL / POSTGRESQL / HTML5 / CSS3 / BOOTSTRAP5 
 NPM / GIT  / GITHUB / COMMAND-LINE / CREATIVE CLOUD: Ai Ps Xd Id
 
 
-- 🔭 I’m currently working on [my portfolio](https://www.elviacamarena.dev) / [JuicyBliss](https://www.juicybliss.com) / [FlyingStarsFengShui](http://www.flyingstarsfengshui.com) 
-- <a rel="noreferrer" target="_blank" class="" href="https://face-detective-09-14-21.herokuapp.com">
-Face Detector App
-</a>
+- 🔭 Check out [my portfolio](https://elvia-portfolio.netlify.app). I'm adding to it every day.
+- The next project I am excited aboutworking on is the [Flying Stars Feng Shui App](https://elvia-portfolio.netlify.app/#fengshui) 
 - 🌱 I’m currently learning Python / Ruby / Ruby on Rails / MongoDB / Mongoose / Figma   
 
 
