@@ -8,7 +8,7 @@ If you'd like to see my resumé, click [here](https://www.juicybliss.com/downloa
 
 Skills: 
 JS / REACT / REDUX / EXPRESS / NODE JS / SQL / POSTGRESQL / HTML5 / CSS3 / BOOTSTRAP5 
-NPM / GIT  / GITHUB / COMMAND-LINE / CREATIVE CLOUD: Ai Ps Xd Id
+NPM / GIT  / GITHUB / COMMAND-LINE / HEROKU / CREATIVE CLOUD
 
 
 - 🔭 Check out [my portfolio](https://elvia-portfolio.netlify.app). I'm adding to it every day.
